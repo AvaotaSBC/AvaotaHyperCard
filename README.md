@@ -1,5 +1,7 @@
 # Avaota Hyper Card
 
+![image](https://github.com/AvaotaSBC/AvaotaHyperCard/assets/12003087/fd2ff4fa-6d94-403a-a6d8-796cd5958726)
+
 The Avaota Hyper Card series is a convenient suite designed for developers, comprising the Avaota Hyper Card Reader and Avaota Hyper Card Connector.
 
 ## Avaota Hyper Card Reader
